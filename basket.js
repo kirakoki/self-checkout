@@ -25,11 +25,10 @@ const orange = {
 
 
    const scanItem = scannedBarcode=> {
-        return productCatalouge.find( urun =>  {
-            if(urun.barcode == scannedBarcode)
+        return productCatalouge.find(item =>  {
+            if(item.barcode == scannedBarcode)
                 return true;
-        }
-        )
+        })
    }
 
     const addToBasket = item => {
@@ -37,19 +36,15 @@ const orange = {
 }
 
     const getTotalPrice = () => {
-        return basket.reduce((acc, urun) =>{
-            return acc + urun.price;  
+        return basket.reduce((acc, item) =>{
+            return acc + item.price;  
         },0)
 }
 
-    const removeItem = (urun) => {
-       const index = basket.indexOf(urun);
+    const removeItem = item => {
+       const index = basket.indexOf(item);
        return basket.splice(index,1);
     }
-
-
-
-
 
 
    module.exports = {
