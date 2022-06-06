@@ -1,2 +1,5 @@
 # self-checkout
-OOP practice
+
+self checkout exercise ,
+
+object oriented Javascript
