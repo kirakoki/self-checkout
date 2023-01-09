@@ -1,5 +1,5 @@
 # self-checkout
 
-Self checkout exercise ,
+Self checkout exercise
 
 object oriented Javascript
