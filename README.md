@@ -2,4 +2,4 @@
 
 Self checkout exercise
 
-object oriented Javascript
+Object oriented Javascript
