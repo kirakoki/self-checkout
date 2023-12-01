@@ -5,4 +5,4 @@ Self checkout exercise
 Object oriented Javascript
 
 
-Cypruscodes bootcamp exercise
+Cypruscodes bootcamp exercise.
