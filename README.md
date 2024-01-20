@@ -5,4 +5,4 @@ Self checkout exercise
 Object oriented Javascript
 
 
-CyprusCodes bootcamp exercise.
+CyprusCodes bootcamp exercise. Example project for students
