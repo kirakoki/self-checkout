@@ -6,5 +6,5 @@ Object oriented Javascript
 
 
 CyprusCodes bootcamp exercise.
-Example project for students.
+Example project for bootcamp students.
 
